@@ -14,6 +14,7 @@
 		5BCB4CD11CB1343D004E6EAE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BCB4CCF1CB1343D004E6EAE /* LaunchScreen.storyboard */; };
 		5BCB4CDC1CB1343D004E6EAE /* animTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BCB4CDB1CB1343D004E6EAE /* animTests.swift */; };
 		5BCB4CE71CB1343D004E6EAE /* animUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BCB4CE61CB1343D004E6EAE /* animUITests.swift */; };
+		5BCB4CF51CB1348A004E6EAE /* manutd.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BCB4CF41CB1348A004E6EAE /* manutd.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5BCB4CE21CB1343D004E6EAE /* animUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = animUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BCB4CE61CB1343D004E6EAE /* animUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animUITests.swift; sourceTree = "<group>"; };
 		5BCB4CE81CB1343D004E6EAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5BCB4CF41CB1348A004E6EAE /* manutd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = manutd.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				5BCB4CC61CB1343D004E6EAE /* AppDelegate.swift */,
 				5BCB4CC81CB1343D004E6EAE /* ViewController.swift */,
 				5BCB4CCA1CB1343D004E6EAE /* Main.storyboard */,
+				5BCB4CF41CB1348A004E6EAE /* manutd.png */,
 				5BCB4CCD1CB1343D004E6EAE /* Assets.xcassets */,
 				5BCB4CCF1CB1343D004E6EAE /* LaunchScreen.storyboard */,
 				5BCB4CD21CB1343D004E6EAE /* Info.plist */,
@@ -231,6 +234,7 @@
 			files = (
 				5BCB4CD11CB1343D004E6EAE /* LaunchScreen.storyboard in Resources */,
 				5BCB4CCE1CB1343D004E6EAE /* Assets.xcassets in Resources */,
+				5BCB4CF51CB1348A004E6EAE /* manutd.png in Resources */,
 				5BCB4CCC1CB1343D004E6EAE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
